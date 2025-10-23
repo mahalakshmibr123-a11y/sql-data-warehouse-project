@@ -74,6 +74,7 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 
+---
 ## 🌟 About Me
 
 Hi There! I'm Mahalakshmi, who is deeply interested in SQL and love turning raw data into meaningful insights through data modeling, ETL pipelines, and data warehouse design.
